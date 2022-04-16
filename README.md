@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @adchaa
-- 👀 I’m interested in coding and chess
 - 🌱 I’m currently learning react js and node js 
 - 📫 How to reach me https://www.facebook.com/adem.chaabani.982/
 
