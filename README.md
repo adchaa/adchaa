@@ -1,4 +1,3 @@
 - How to reach me :
-- facebook : https://www.facebook.com/adem.chaabani.982/
-- mail : AdemChaabani@protonmail.com
+- mail : adem0946chaa@gmail.com
 - linkedin : https://www.linkedin.com/in/adem-chaabani/
