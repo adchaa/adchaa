@@ -1,3 +1,2 @@
 - How to reach me :
-- mail : adem0946chaa@gmail.com
 - linkedin : https://www.linkedin.com/in/adem-chaabani/
