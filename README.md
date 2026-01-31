@@ -1,5 +1,6 @@
 ```sh
 declare -A me
+
 whoami() {
   me[name]="Adem Chaabani"
   me[role]="Software Engineer"
